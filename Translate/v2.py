@@ -5,3 +5,5 @@ while True:
     result=translate.translate(nhap)
     print(result)
     print(result.text)
+    
+print("Now is 19:15 PM")
